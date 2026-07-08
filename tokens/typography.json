@@ -1,0 +1,15 @@
+{
+  "font": {
+    "family": {
+      "primary": { "value": "'Inter', system-ui, sans-serif" }
+    },
+    "size": {
+      "xs": { "value": "12" },
+      "sm": { "value": "14" },
+      "base": { "value": "16" },
+      "lg": { "value": "18" },
+      "xl": { "value": "20" },
+      "xxl": { "value": "28" }
+    }
+  }
+}

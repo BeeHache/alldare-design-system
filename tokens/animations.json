@@ -1,0 +1,7 @@
+{
+  "duration": {
+    "fast": { "value": "150" },
+    "normal": { "value": "200" },
+    "slow": { "value": "300" }
+  }
+}

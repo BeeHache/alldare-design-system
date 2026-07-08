@@ -1,0 +1,15 @@
+{
+  "color": {
+    "brand": {
+      "primary": { "value": "#3b82f6" },
+      "secondary": { "value": "#1e293b" },
+      "background": { "value": "#020617" },
+      "surface": { "value": "#0f172a" },
+      "accent": { "value": "#60a5fa" }
+    },
+    "text": {
+      "primary": { "value": "#ffffff" },
+      "secondary": { "value": "#94a3b8" }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "spacing": {
+    "xxs": { "value": "4" },
+    "xs": { "value": "8" },
+    "sm": { "value": "12" },
+    "md": { "value": "16" },
+    "lg": { "value": "24" },
+    "xl": { "value": "32" }
+  }
+}

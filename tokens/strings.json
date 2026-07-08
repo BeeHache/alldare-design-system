@@ -1,0 +1,12 @@
+{
+  "string": {
+    "app": {
+      "name": { "value": "Alldare" }
+    },
+    "login": {
+      "title": { "value": "WELCOME TO ALLDARE" },
+      "google": { "value": "Continue with Google" },
+      "github": { "value": "Continue with GitHub" }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "border": {
+    "radius": {
+      "sm": { "value": "8" },
+      "md": { "value": "12" },
+      "lg": { "value": "16" },
+      "full": { "value": "9999" }
+    },
+    "width": {
+      "thin": { "value": "1" },
+      "medium": { "value": "2" }
+    }
+  }
+}
