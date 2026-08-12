@@ -25,3 +25,9 @@ alldare/
 ├── alldare-design-system/     <-- You are here
 ├── alldare-frontend/
 └── alldare-mobile/
+```
+
+---
+
+## 4. Responsive Layout & Token Guidelines
+- **Mandatory Responsive Layout Design:** All visual design tokens, layout primitives, and asset definitions managed in `alldare-design-system` **must** enforce responsive scaling across mobile, tablet, and desktop viewports (360px+ to ultra-wide displays) without layout overflow or visual degradation.
