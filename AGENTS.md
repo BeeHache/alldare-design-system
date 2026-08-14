@@ -31,3 +31,5 @@ alldare/
 
 ## 4. Responsive Layout & Token Guidelines
 - **Mandatory Responsive Layout Design:** All visual design tokens, layout primitives, and asset definitions managed in `alldare-design-system` **must** enforce responsive scaling across mobile, tablet, and desktop viewports (360px+ to ultra-wide displays) without layout overflow or visual degradation.
+
+- **Prohibition of Hardcoded Literals:** Avoid inline hardcoded string literals, raw route paths, or magic numbers across UI components, ViewModels, backend services, or repositories. User-facing strings must be localized via `strings.xml` / `Localizable.strings`, and route keys must use centralized constants (e.g. `StreamKeys`, `SecurityConstants`, or `BuildKonfig`).
